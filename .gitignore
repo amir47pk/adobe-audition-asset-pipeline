@@ -1,7 +1,0 @@
-yarn-error.log*
-.env.local
-build/
-.pnpm-store/
-coverage/
-npm-debug.log*
-*.log
