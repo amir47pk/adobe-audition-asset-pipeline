@@ -1,0 +1,7 @@
+*.ts linguist-detectable
+
+*.tsx linguist-detectable
+*.html linguist-vendored
+*.jpeg binary
+*.yml linguist-detectable=false
+public/*.html linguist-vendored
